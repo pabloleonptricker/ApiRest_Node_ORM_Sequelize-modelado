@@ -3,7 +3,7 @@
 # ===== CONFIGURACIÓN =====
 DB_NAME="api_res_db2"
 DB_USER="pablo"
-DB_PASSWORD="D4w_2026_Proyecto!"
+DB_PASSWORD="Pablo35_"
 DB_HOST="127.0.0.1"
 
 # =========================
